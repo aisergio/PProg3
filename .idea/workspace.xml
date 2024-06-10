@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c35bc387-c76e-4b7c-ae91-169a96f0101e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geomate/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geomate/controller/ChallengesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geomate/controller/InstructionsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geomate/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geomate/controller/WildcardsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geomate/model/AppModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geomate/view/ChallengesView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geomate/view/InstructionsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geomate/view/MainView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geomate/view/WildcardsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/ChallengesView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/InstructionsView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/MainView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/WildcardsView.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2hfR3vdmkVWdR5F0HzjXEORhpeo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Play.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "D:/U/SMPG/OneDrive/Poli/Software/Semestre 6/Paradigmas de programación/Entrega 2/PProg3/src/main/java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Play" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="geomate.MainApp" />
+      <module name="PProg3" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\980\Program Files\javafx-sdk-22.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml --module-path &quot;C:\980\Program Files\javafx-sdk-22.0.1\lib&quot; --add-modules javafx.swing,javafx.graphics,javafx.fxml,javafx.media,javafx.web --add-reads javafx.graphics=ALL-UNNAMED --add-opens javafx.controls/com.sun.javafx.charts=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.css=ALL-UNNAMED --add-opens javafx.base/com.sun.javafx.runtime=ALL-UNNAMED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c35bc387-c76e-4b7c-ae91-169a96f0101e" name="Changes" comment="" />
+      <created>1717982956037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717982956037</updated>
+    </task>
+    <servers />
+  </component>
+</project>
